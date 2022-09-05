@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MJay1908
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Network Security
+- 👋 Hi, I’m MRITYUNJAY SINGH (MJay)
+- 👀 I’m interested in Cyber Security/Python
+- 🌱 I’m currently learning Hacking.
 - 💞️ I’m looking to collaborate on similar projects 
-- 📫 How to reach me? Message me on Telegram at @MJay1908
+- 📫 How to reach me? Message me on Telegram at @enma1B
 
 <!---
 MJay1908/MJay1908 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
