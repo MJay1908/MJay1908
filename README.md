@@ -1,6 +1,6 @@
 - 👋 Hi, I’m MRITYUNJAY SINGH (MJay)
-- 👀 I’m interested in C++/Python
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Python/AIML/Azure/Linux
+- 🌱 I’m currently learning Git/CI/CD
 - 💞️ I’m looking to collaborate on similar projects 
 - 📫 How to reach me? Message me on Telegram at @enma1B
 
